@@ -75,8 +75,6 @@ As fotos **não são enviadas para lugar nenhum** — tudo acontece localmente.
 | `Instalar_PhotosPlayer.bat` | Instalador portátil (contém tudo embutido) |
 | `PhotosPlayer-Pacote.zip` | Arquivos separados |
 | `PhotosPlayer-Demo-10-Fotos.zip` | Demonstração com 10 fotos públicas (teste sem instalar) |
-| `Post_WordPress.html` | Post pronto para o blog |
-| `Video_Slides.html` + `Roteiro_Video.md` | Slides e roteiro para o vídeo |
 | `Abrir_Photos_Player.cmd` | Executado pelo menu do Explorer |
 | `gerar_album.ps1` | Gerador do álbum |
 | `Instalar_Menu.bat` / `.ps1` | Registro do menu |
@@ -109,3 +107,5 @@ OpenCode V: 2.3.2 e Pepeh
 ## ⭐ Gostou?
 
 Deixe uma estrela no repositório e compartilhe com quem trabalha com muitas fotos no Windows!
+
+> Material de divulgação (post e vídeo) está em repositórios separados: `photos-player-post` e `photos-player-video`.

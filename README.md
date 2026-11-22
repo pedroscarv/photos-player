@@ -108,4 +108,5 @@ OpenCode V: 2.3.2 e Pepeh
 
 Deixe uma estrela no repositório e compartilhe com quem trabalha com muitas fotos no Windows!
 
-> Material de divulgação (post e vídeo) está em repositórios separados: `photos-player-post` e `photos-player-video`.
+> Sugestões no Leave a Reply -> Comment *  do  blog:
+> https://pepeh.com.br/index.php/2026/11/21/photos-player-sua-pasta-de-fotos-vira-um-album-profissional-em-2-cliques/
